@@ -13,9 +13,9 @@ Website ini dirancang sebagai media promosi digital untuk **BEESSYI Barbershop**
 
 ## 🖼️ Tampilan Website
 
-![Screenshot Homepage](Screenshot%202025-06-30%20220006.png)
-![Screenshot Tentang Kami](Screenshot%202025-06-30%20220021.png)
-![Screenshot Layanan](Screenshot%202025-06-30%20220038.png)
+![Screenshot Homepage](images/Screenshot%202025-06-30%20220006.png)
+![Screenshot Tentang Kami](images/Screenshot%202025-06-30%20220021.png)
+![Screenshot Layanan](images/Screenshot%202025-06-30%20220038.png)
 
 ## 🛠️ Teknologi
 
